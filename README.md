@@ -4,7 +4,7 @@ This is the repository for a DTU master thesis with the title Age Manipulation w
 ### Project structure: 
 Files titled as inference are for the inference stage of the project and files titled as jobscript are the jobscript that is sent to the DTU servers for training/inference. 
 
-Generated data is provided in the project submission. 
+Generated data is accessible with this link: https://drive.google.com/drive/folders/1B71jXGWRW36pgbQnXfkReZO7k7YtWXWj?usp=sharing 
 
 Evaluations folder includes the calculation done in the evaluation chapter in the thesis. 
 
